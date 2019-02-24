@@ -1,7 +1,7 @@
 # slider
 This is a simple web slider. It is customizable, but you have to edit files manually.
 
-Slides are not working out of the box, your have to edit them.
+Slides are not working out of the box, you have to edit them.
 
 (PHP installer is coming soon)
 
