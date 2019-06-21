@@ -37,6 +37,7 @@
     padding: 4px 8px;
     background-color: rgba(0, 0, 0, 0.4);
     color: white;
+    border-radius: 0 0 4px 4px;
 }
 #slidernum{
     position: absolute;
